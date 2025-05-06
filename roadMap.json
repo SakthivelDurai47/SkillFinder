@@ -1,0 +1,114 @@
+{
+    "Drawing": [
+      {
+        "step": "Learn basic shapes and line control",
+        "source": "https://www.drawspace.com"
+      },
+      {
+        "step": "Practice shading and texture techniques",
+        "source": "https://www.proko.com"
+      },
+      {
+        "step": "Study perspective and proportions",
+        "source": "https://www.ctrlpaint.com"
+      },
+      {
+        "step": "Try still life and figure drawing",
+        "source": "https://line-of-action.com"
+      },
+      {
+        "step": "Explore digital drawing tools like Krita or Procreate",
+        "source": "https://krita.org"
+      }
+    ],
+    "Cooking": [
+      {
+        "step": "Understand kitchen safety and tools",
+        "source": "https://www.foodsafety.gov"
+      },
+      {
+        "step": "Learn basic cooking techniques (boiling, sautéing, etc.)",
+        "source": "https://www.bonappetit.com"
+      },
+      {
+        "step": "Follow beginner-friendly recipes",
+        "source": "https://www.allrecipes.com"
+      },
+      {
+        "step": "Experiment with spices and flavors",
+        "source": "https://www.seriouseats.com"
+      },
+      {
+        "step": "Explore regional cuisines",
+        "source": "https://www.bbcgoodfood.com"
+      }
+    ],
+    "Coding": [
+      {
+        "step": "Understand basic programming concepts (variables, loops, functions)",
+        "source": "https://www.w3schools.com"
+      },
+      {
+        "step": "Learn HTML, CSS, and JavaScript",
+        "source": "https://developer.mozilla.org"
+      },
+      {
+        "step": "Practice through beginner projects",
+        "source": "https://www.frontendmentor.io"
+      },
+      {
+        "step": "Work on debugging and problem-solving",
+        "source": "https://leetcode.com"
+      },
+      {
+        "step": "Build and deploy a website",
+        "source": "https://netlify.app"
+      }
+    ],
+    "Communication_Skills": [
+      {
+        "step": "Practice active listening and feedback",
+        "source": "https://www.mindtools.com"
+      },
+      {
+        "step": "Improve public speaking confidence",
+        "source": "https://www.toastmasters.org"
+      },
+      {
+        "step": "Learn about non-verbal communication",
+        "source": "https://www.skillsyouneed.com"
+      },
+      {
+        "step": "Refine your writing clarity",
+        "source": "https://owl.purdue.edu"
+      },
+      {
+        "step": "Join discussions and debates",
+        "source": "https://www.ted.com/talks"
+      }
+    ],
+    "Poetry": [
+      {
+        "step": "Read classic and modern poetry",
+        "source": "https://www.poetryfoundation.org"
+      },
+      {
+        "step": "Understand poetic devices (metaphor, rhyme, meter)",
+        "source": "https://literarydevices.net"
+      },
+      {
+        "step": "Write and revise short poems",
+        "source": "https://www.youngwriters.co.uk"
+      },
+      {
+        "step": "Get peer feedback on your work",
+        "source": "https://www.reddit.com/r/OCpoetry/"
+      },
+      {
+        "step": "Submit to contests or publish online",
+        "source": "https://www.powerpoetry.org"
+      }
+    ]
+  }
+
+  

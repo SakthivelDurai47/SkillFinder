@@ -1,0 +1,162 @@
+{
+  "Drawing": [
+    {
+      "question": "When you see a complex shape or object, what\u2019s your first instinct?",
+      "options": [
+        "Try to describe it in words",
+        "Think about how it\u2019s made",
+        "Break it down into basic shapes and outline it",
+        "Ignore the details and look at colors"
+      ],
+      "answer": "Break it down into basic shapes and outline it"
+    },
+    {
+      "question": "You have 1 hour of free time and a pencil and paper. What would you enjoy doing most?",
+      "options": [
+        "Writing a short story",
+        "Watching a video tutorial",
+        "Messaging friends",
+        "Sketching what\u2019s in front of you"
+      ],
+      "answer": "Sketching what\u2019s in front of you"
+    },
+    {
+      "question": "You\u2019re asked to design a logo. How do you begin?",
+      "options": [
+        "Start sketching possible shapes",
+        "Look for reference images and copy",
+        "Ask someone else to do it",
+        "Open a graphic design app without a plan"
+      ],
+      "answer": "Start sketching possible shapes"
+    }
+  ],
+  "Cooking": [
+    {
+      "question": "When you try a new dish at a restaurant, what are you most curious about?",
+      "options": [
+        "Whether it\u2019s healthy",
+        "How they made it",
+        "The name and origin",
+        "What others think about it"
+      ],
+      "answer": "How they made it"
+    },
+    {
+      "question": "You\u2019re home alone and hungry. What are you most likely to do?",
+      "options": [
+        "Order food online",
+        "Eat a snack and wait",
+        "Call someone for help",
+        "Try cooking something from scratch"
+      ],
+      "answer": "Try cooking something from scratch"
+    },
+    {
+      "question": "How do you feel about following recipes?",
+      "options": [
+        "I like to follow exactly",
+        "It\u2019s stressful",
+        "I enjoy experimenting beyond the recipe",
+        "I\u2019ve never tried"
+      ],
+      "answer": "I enjoy experimenting beyond the recipe"
+    }
+  ],
+  "Coding": [
+    {
+      "question": "When faced with a puzzle or challenge, what do you enjoy doing?",
+      "options": [
+        "Breaking it down step by step",
+        "Asking for help immediately",
+        "Skipping it",
+        "Guessing the answer"
+      ],
+      "answer": "Breaking it down step by step"
+    },
+    {
+      "question": "How would you solve the problem of organizing a group project online?",
+      "options": [
+        "Use a pre-built tool",
+        "Ask someone else to manage it",
+        "Write everything on paper",
+        "Build a simple app or tracker"
+      ],
+      "answer": "Build a simple app or tracker"
+    },
+    {
+      "question": "You\u2019re given a broken piece of code. What\u2019s your first move?",
+      "options": [
+        "Rewrite the whole thing",
+        "Check it line-by-line and try fixing",
+        "Leave it",
+        "Ask someone what\u2019s wrong"
+      ],
+      "answer": "Check it line-by-line and try fixing"
+    }
+  ],
+  "Communication_Skills": [
+    {
+      "question": "When someone tells you a problem, what do you naturally do?",
+      "options": [
+        "Share your own story",
+        "Change the subject",
+        "Get uncomfortable",
+        "Listen carefully and respond thoughtfully"
+      ],
+      "answer": "Listen carefully and respond thoughtfully"
+    },
+    {
+      "question": "You need to present in class. What do you feel?",
+      "options": [
+        "Nervous but willing",
+        "Hoping someone else does it",
+        "Dreading it",
+        "Excited to share"
+      ],
+      "answer": "Excited to share"
+    },
+    {
+      "question": "How do you handle group conflicts?",
+      "options": [
+        "Mediate and clarify misunderstandings",
+        "Avoid the situation",
+        "Side with friends",
+        "Let someone else deal with it"
+      ],
+      "answer": "Mediate and clarify misunderstandings"
+    }
+  ],
+  "Poetry": [
+    {
+      "question": "You see a sunset. What\u2019s your reaction?",
+      "options": [
+        "Take a photo",
+        "Try to describe it using feelings and rhythm",
+        "Think of the science behind it",
+        "Scroll past"
+      ],
+      "answer": "Try to describe it using feelings and rhythm"
+    },
+    {
+      "question": "You\u2019re given a theme: \u201cfreedom.\u201d What would you do?",
+      "options": [
+        "Write a symbolic piece with emotions",
+        "Make a mind map",
+        "Look for quotes",
+        "Avoid it"
+      ],
+      "answer": "Write a symbolic piece with emotions"
+    },
+    {
+      "question": "How do you feel about metaphors?",
+      "options": [
+        "They\u2019re confusing",
+        "I prefer plain language",
+        "I love how they give depth",
+        "I never use them"
+      ],
+      "answer": "I love how they give depth"
+    }
+  ]
+}

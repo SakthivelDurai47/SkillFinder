@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Skill Finder</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="welcomePage">
+      <h1>Skill Finder</h1>
+      <p>
+        Find the hidden skill within you by answering to a series of questions
+        <br /><br />or <br /><br />Get roadmaps for different skills to learn!
+      </p>
+      <button onclick="questionPage()">Begin!</button>
+      <button onclick="loadRoadmap()">Road Maps</button>
+    </main>
+    <section id="allRoadMaps">
+      <h3>Click on one of the following skills to start learning!</h3>
+      <div id="roadmapButtons">
+        <button onclick="showRoadMap('Drawing')">Drawing</button>
+        <button onclick="showRoadMap('Cooking')">Cooking</button>
+        <button onclick="showRoadMap('Coding')">Coding</button>
+        <button onclick="showRoadMap('Communication_Skills')">
+          Communication Skills
+        </button>
+        <button onclick="showRoadMap('Poetry')">Poetry</button>
+      </div>
+    </section>
+    <section id="questions">
+      <h2 id="question">question</h2>
+      <br />
+      <p class="option"><option value="A">Hi</option></p>
+      <p class="option"><option value="B">hi</option></p>
+      <p class="option"><option value="C">hi</option></p>
+      <p class="option"><option value="D">hi</option></p>
+      <div id="optionSelect">
+        <label for=" 0"
+          ><input
+            onclick="nextQuestion();"
+            type="radio"
+            name="Answer"
+            class="line"
+            value="0"
+          />
+          Option 1</label
+        >
+        <label for=" 1"
+          ><input
+            onclick="nextQuestion();"
+            type="radio"
+            name="Answer"
+            class="line"
+            value="1"
+          />
+          Option 2
+        </label>
+        <label for=" 2"
+          ><input
+            onclick="nextQuestion();"
+            type="radio"
+            name="Answer"
+            class="line"
+            value="2"
+          />
+          Option 3
+        </label>
+        <label for=" 3"
+          ><input
+            onclick="nextQuestion()"
+            type="radio"
+            name="Answer"
+            class="line"
+            value="3"
+          />
+          Option 4
+        </label>
+      </div>
+    </section>
+    <section id="result">
+      <h2>Your Result !</h2>
+      <p>You should Consider learning <span id="ans">hi</span></p>
+      <p>Here is a road map on where to start learning this Skill !</p>
+      <div id="roadMap">
+        <h2 id="anss">Hi</h2>
+        <p>1: <span class="roadline"></span></p>
+        <p>Source: <a class="roadline" target="_blank" href="#"></a></p>
+        <br />
+        <p>2: <span class="roadline"></span></p>
+        <p>Source: <a class="roadline" target="_blank" href="#"></a></p>
+        <br />
+        <p>3: <span class="roadline"></span></p>
+        <p>Source: <a class="roadline" target="_blank" href="#"></a></p>
+        <br />
+        <p>4: <span class="roadline"></span></p>
+        <p>Source: <a class="roadline" target="_blank" href="#"></a></p>
+        <br />
+        <p>5: <span class="roadline"></span></p>
+        <p>Source: <a class="roadline" target="_blank" href="#"></a></p>
+        <br />
+      </div>
+    </section>
+    <section id="showroadmap">
+      <p>Here is a road map on where to start learning this Skill !</p>
+      <div id="roadMap">
+        <h2 id="ansss">Hi</h2>
+        <p>1: <span class="roadlines"></span></p>
+        <p>Source: <a class="roadlines" target="_blank" href="#"></a></p>
+        <br />
+        <p>2: <span class="roadlines"></span></p>
+        <p>Source: <a class="roadlines" target="_blank" href="#"></a></p>
+        <br />
+        <p>3: <span class="roadlines"></span></p>
+        <p>Source: <a class="roadlines" target="_blank" href="#"></a></p>
+        <br />
+        <p>4: <span class="roadlines"></span></p>
+        <p>Source: <a class="roadlines" target="_blank" href="#"></a></p>
+        <br />
+        <p>5: <span class="roadlines"></span></p>
+        <p>Source: <a class="roadlines" target="_blank" href="#"></a></p>
+        <br />
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>

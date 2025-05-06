@@ -1,0 +1,128 @@
+body {
+  margin: 10px;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #313131;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+  height: auto;
+}
+#welcomePage {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  margin: 50px;
+  text-align: center;
+}
+#welcomePage h1 {
+  margin: 30px;
+  color: rgba(255, 68, 0, 0.85);
+}
+button {
+  font-weight: bold;
+  color: #313131;
+  background: rgba(255, 68, 0, 0.85);
+  margin: 30px;
+  border-radius: 5px;
+  padding: 15px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.4s ease-in-out;
+}
+
+button:hover {
+  color: whitesmoke;
+  scale: 1.1;
+}
+#roadmapButtons button {
+  margin: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#roadmapButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+#question {
+  text-align: center;
+}
+#questions {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  display: none;
+  max-width: 60vw;
+  margin: auto;
+  margin-top: 40px;
+}
+#optionSelect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#questions button {
+  font-size: large;
+  padding: 10px 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+#optionSelect {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+input {
+  margin: 5px;
+}
+#result {
+  display: none;
+  max-width: 70vw;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+#result h2 {
+  margin-bottom: 50px;
+}
+
+#ans,
+#anss,
+#ansss {
+  font-weight: bold;
+  color: rgba(255, 68, 0, 0.85);
+}
+
+#roadMap {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+#roadMap p {
+  text-align: left;
+}
+
+a {
+  color: rgb(255, 86, 24);
+}
+#showroadmap {
+  display: none;
+}
+#allRoadMaps {
+  display: none;
+}
